@@ -1,6 +1,7 @@
-https://pbs.twimg.com/media/F_sh3p_bUAA-72-?format=jpg&name=small
 <h1 align="center">Hi 👋, I'm Aslam Hossain</h1>
 <h3 align="center">Web Developer & Programmer</h3>
+
+<img src="https://pbs.twimg.com/media/F_sh3p_bUAA-72-?format=jpg&name=small">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslam490a&label=Profile%20views&color=0e75b6&style=flat" alt="aslam490a" /> </p>
 
@@ -14,7 +15,7 @@ https://pbs.twimg.com/media/F_sh3p_bUAA-72-?format=jpg&name=small
 
 - 👨‍💻 All of my projects are available at [https://aslam490a.great-site.net/](https://aslam490a.great-site.net/)
 
-- 💬 Ask me about **Web Developement**
+- 💬 Ask me about **Web Development**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
